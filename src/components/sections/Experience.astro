@@ -4,7 +4,7 @@ import Section from "../Section.astro"
 import { work } from "@cv"
 ---
 
-<Section title="Experiencia laboral">
+<Section title="Professional Experience">
   <ul>
     {
       work.map(
@@ -31,7 +31,13 @@ import { work } from "@cv"
                 </header>
 
                 <footer>
-                  <p>{summary}</p>
+                  {
+                    summary.split(".").map((s, i) => (
+                      <p>
+                        {s.length > 0 ? s + '.' : null }
+                      </p>
+                    ))
+                  }
                 </footer>
               </article>
             </li>
@@ -43,6 +49,13 @@ import { work } from "@cv"
 </Section>
 
 <style>
+
+footer {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
   ul {
     display: flex;
     flex-direction: column;
