@@ -1,7 +1,6 @@
 
 
 <div align="center">
-<img src="logo.png" height="90px" width="auto" /> 
 <h2>
     <em>Résumé</em> minimalista maquetado para web y pdf
 </h2>
@@ -12,7 +11,10 @@ Esquema del JSON de CV de <a href="https://jsonresume.org/schema/">jsonresume.or
 
 <p>
 Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz Jarocki</a>
+</p>
 
+<p>
+Basado en el diseño de <a href="https://github.com/midudev/minimalist-portfolio-json">Midudev</a>
 </p>
 
 </div>
@@ -41,10 +43,10 @@ Basado en el diseño de <a href="https://github.com/BartoszJarocki/cv">Bartosz J
 <div align="center">
 
 ![Astro Badge](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat)
-![GitHub stars](https://img.shields.io/github/stars/midudev/minimalist-portfolio-json)
-![GitHub issues](https://img.shields.io/github/issues/midudev/minimalist-portfolio-json)
-![GitHub forks](https://img.shields.io/github/forks/midudev/minimalist-portfolio-json)
-![GitHub PRs](https://img.shields.io/github/issues-pr/midudev/minimalist-portfolio-json)
+![GitHub stars](https://img.shields.io/github/stars/KevinOlvera/minimalist-portfolio-json)
+![GitHub issues](https://img.shields.io/github/issues/KevinOlvera/minimalist-portfolio-json)
+![GitHub forks](https://img.shields.io/github/forks/KevinOlvera/minimalist-portfolio-json)
+![GitHub PRs](https://img.shields.io/github/issues-pr/KevinOlvera/minimalist-portfolio-json)
 
 </div>
 
