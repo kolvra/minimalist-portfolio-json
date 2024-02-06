@@ -32,10 +32,8 @@ import { work } from "@cv"
 
                 <footer>
                   {
-                    summary.split(".").map((s, i) => (
-                      <p>
-                        {s.length > 0 ? s + '.' : null }
-                      </p>
+                    summary.map((s) => (
+                      <p>{s}</p>
                     ))
                   }
                 </footer>

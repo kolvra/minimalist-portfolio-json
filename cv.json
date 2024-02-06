@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Kevin Jesus Olvera",
-    "label": "Skilled software developer with expertise in Python, virtualization, and web applications, adept in both team and solo projects.",
+    "label": "Software engineer with 5 years of experience working with web applications, virtualization, and networking.",
     "image": "https://avatars.githubusercontent.com/u/14861488?v=4",
     "email": "me@kevinolvera.com",
     "phone": "+52 5511928499",
     "url": "https://kevinolvera.com",
-    "summary": "Software developer with Python, Ansible, Flask, MySQL with good experience with virtualization and containerization of services with KVM and Docker. Good Experience with PEP-8 and Google coding Guidelines in Python. Excellent working knowledge of designing and implementation of Web applications and monitoring systems as well as familiar with concepts and devices such routers, switches and TCP/IP protocols. Highly motivated, dedicated, quick learner and have proven ability to work individually and as a team.",
+    "summary": "Software engineer with 5 years of experience in developing sophisticated solutions, I excel in Python, Docker, REST APIs, React, and SQL, with a strong foundation in virtualization, containerization, and networking. Known for my quick learning ability, dedication, and teamwork, I consistently drive innovations that deliver substantial benefits to both customers and the company.",
     "location": {
       "address": "1ra Privada de Apango 39",
       "postalCode": "07100",
@@ -34,7 +34,10 @@
       "url": "",
       "startDate": "2021-08-01",
       "endDate": null,
-      "summary": "Performed configuration and automation of IP equipments for SD-WAN platforms for service providers in Latin America.",
+      "summary": [
+        "Led the development and implementation of a service quality testing system for network equipment using technologies such as Python, Docker and Rest APIs, for the collection of metrics and processing of data for subsequent analysis and delivery of reports to some customers in Latin America.",
+        "Directed a development team to engineer a complex web-based system for building virtual network equipment labs, incorporating key technologies like React, GoLang and OpenStack to bring to the sales department of the company an easy way to deliver demonstrations of Nokia products enhancing customer engagement and providing substantial benefits to the company."
+      ],
       "highlights": [
         "SRL CERT"
       ]
@@ -45,7 +48,11 @@
       "url": "",
       "startDate": "2019-11-01",
       "endDate": "2021-08-01",
-      "summary": "Automated the configuration of equipments of an SD-WAN platform through the use of APIs, generating a reduction in configuration times by up to 40% with the possibility of replicating this automation in future projects. Designed and implemented prototypes of WEB systems for the management of cost and effort quotes for the different IP products and services offered by the company. Performed consulting and implementation activities of monitoring solutions for SD-WAN platforms for service providers in Latin America and North America.",
+      "summary": [
+        "Automated the configuration of equipments of an SD-WAN platform through the use of APIs, generating a reduction in configuration times by up to 40% with the possibility of replicating this automation in future projects.",
+        "Designed and implemented prototypes of WEB systems for the management of cost and effort quotes for the different IP products and services offered by the company.",
+        "Performed consulting and implementation activities of monitoring solutions for SD-WAN platforms for service providers in Latin America and North America."
+      ],
       "highlights": [
         "SDN CERT",
         "SDWAN CERT"
@@ -64,7 +71,7 @@
       "courses": []
     }
   ],
-  "skills_description": "Proficient in Microsoft Office and Adobe Acrobat suite, knowledgeable with KVM and Docker, familiar with automation technologies such Ansible and Terraform",
+  "skills_description": "Skilled in front-end development, back-end technologies, and system administration. Proficient in automation and virtualization, with a strong foundation in both development and operational tools.",
   "skills": [
     {
       "name": "HTML",
@@ -83,27 +90,52 @@
     },
     {
       "name": "Python",
-      "level": "Avanzado",
+      "level": "Master",
       "keywords": []
     },
     {
       "name": "Linux",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": []
     },
     {
       "name": "SQL",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": []
     },
     {
       "name": "Git",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": []
     },
     {
       "name": "Docker",
-      "level": "Avanzado",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "KVM",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Ansible",
+      "level": "Advanced",
+      "keywords": []
+    },
+    {
+      "name": "Terraform",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "Proficient",
+      "keywords": []
+    },
+    {
+      "name": "Adobe Suite",
+      "level": "Proficientg",
       "keywords": []
     }
   ],
