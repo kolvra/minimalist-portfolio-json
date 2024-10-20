@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Kevin Jesus Olvera",
-    "label": "Software engineer with 5 years of experience working with web applications, virtualization, and networking.",
+    "label": "Make it work, make it right, make it fast.",
     "image": "https://avatars.githubusercontent.com/u/14861488?v=4",
     "email": "me@kevinolvera.com",
     "phone": "+52 5511928499",
     "url": "https://kevinolvera.com",
-    "summary": "Software engineer with 5 years of experience in developing sophisticated solutions, I excel in Python, Docker, REST APIs, React, and SQL, with a strong foundation in virtualization, containerization, and networking. Known for my quick learning ability, dedication, and teamwork, I consistently drive innovations that deliver substantial benefits to both customers and the company.",
+    "summary": "Experienced software engineer with over 5 years of expertise in development, automation, virtualization, and networking. Proficient in Python, TypeScript, React, Docker, and OpenStack, with strong skills in SDN and SD-WAN technologies. Recognized for leadership, problem-solving, and dedication to enhancing client satisfaction through innovative solutions. Bilingual in Spanish and English.",
     "location": {
       "address": "1ra Privada de Apango 39",
       "postalCode": "07100",
@@ -35,8 +35,8 @@
       "startDate": "2021-08-01",
       "endDate": null,
       "summary": [
-        "Led the development and implementation of a service quality testing system for network equipment using technologies such as Python, Docker and Rest APIs, for the collection of metrics and processing of data for subsequent analysis and delivery of reports to some customers in Latin America.",
-        "Directed a development team to engineer a complex web-based system for building virtual network equipment labs, incorporating key technologies like React, GoLang and OpenStack to bring to the sales department of the company an easy way to deliver demonstrations of Nokia products enhancing customer engagement and providing substantial benefits to the company."
+        "Led the development and implementation of a platform for virtual network equipment labs, boosting sales and customer engagement across North and Latin America. Oversaw the redesign to improve user experience, integrated OpenStack for lab management, and streamlined deployment with CI/CD pipelines.",
+        "Led the development and implementation of a service quality testing system for network equipment using technologies such as Python, Docker and Rest APIs, for the collection of metrics and processing of data for subsequent analysis and delivery of reports to some customers in Latin America."
       ],
       "highlights": [
         "SRL CERT"
@@ -61,6 +61,36 @@
   ],
   "education": [
     {
+      "institution": "Nokia Learning Services",
+      "url": "https://www.escom.ipn.mx",
+      "area": "Nokia Data Center Fabric Fundamentals",
+      "studyType": "Certificate",
+      "startDate": "2022-01-01",
+      "endDate": "2022-01-01",
+      "score": null,
+      "courses": []
+    },
+    {
+      "institution": "Nokia Learning Services",
+      "url": "https://www.escom.ipn.mx",
+      "area": "Nuage Networks Virtualized Cloud Services (VCS) Fundamentals",
+      "studyType": "Certificate",
+      "startDate": "2020-03-01",
+      "endDate": "2020-03-01",
+      "score": null,
+      "courses": []
+    },
+    {
+      "institution": "Nokia Learning Services",
+      "url": "https://www.escom.ipn.mx",
+      "area": "Nuage Networks Virtualized Network Services (VNS) Fundamentals",
+      "studyType": "Certificate",
+      "startDate": "2020-02-01",
+      "endDate": "2020-02-01",
+      "score": null,
+      "courses": []
+    },
+    {
       "institution": "Instituto Politécnico Nacional",
       "url": "https://www.escom.ipn.mx",
       "area": "Computer Systems Engineering",
@@ -71,16 +101,16 @@
       "courses": []
     }
   ],
-  "skills_description": "Skilled in front-end development, back-end technologies, and system administration. Proficient in automation and virtualization, with a strong foundation in both development and operational tools.",
+  "skills_description": "Skilled in full-stack development, infrastructure management, and automation. Proficient in building scalable solutions with front-end, back-end, and orchestration technologies, and experienced in deploying and managing virtualized environments with CI/CD pipelines and DevOps tools.",
   "skills": [
     {
-      "name": "HTML",
-      "level": "Master",
+      "name": "Python",
+      "level": "Advanced",
       "keywords": []
     },
     {
-      "name": "CSS",
-      "level": "Master",
+      "name": "TypeScript",
+      "level": "Advanced",
       "keywords": []
     },
     {
@@ -89,8 +119,8 @@
       "keywords": []
     },
     {
-      "name": "Python",
-      "level": "Master",
+      "name": "GoLang",
+      "level": "Basic",
       "keywords": []
     },
     {
@@ -119,23 +149,13 @@
       "keywords": []
     },
     {
-      "name": "Ansible",
+      "name": "Automation",
       "level": "Advanced",
       "keywords": []
     },
     {
-      "name": "Terraform",
-      "level": "Proficient",
-      "keywords": []
-    },
-    {
-      "name": "Microsoft Office",
-      "level": "Proficient",
-      "keywords": []
-    },
-    {
-      "name": "Adobe Suite",
-      "level": "Proficientg",
+      "name": "Networking",
+      "level": "Advanced",
       "keywords": []
     }
   ],
@@ -236,9 +256,21 @@
   ],
   "certificates": [
     {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
+      "name": "Nokia Data Center Fabric Fundamentals",
+      "date": "2023-01-01",
+      "issuer": "Nokia",
+      "url": "https://certificate.com"
+    },
+    {
+      "name": "Nuage Networks Virtualized Network Services (VNS) Fundamentals",
+      "date": "2019-01-01",
+      "issuer": "Nokia",
+      "url": "https://certificate.com"
+    },
+    {
+      "name": "Nuage Networks Virtualized Cloud Services (VCS) Fundamentals",
+      "date": "2019-01-01",
+      "issuer": "Nokia",
       "url": "https://certificate.com"
     }
   ],
